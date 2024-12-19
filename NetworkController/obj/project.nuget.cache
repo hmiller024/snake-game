@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r3XiAjQviR32Lk246Nw0z5MKe2QLHLFucd7dn4ptHu9i7C79DqnNLXJA+KxSQzEsSowcR94Ha7VlxxEG+2XT+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hdmcu\\source\\repos\\game-super_gamers\\SnakeGame\\NetworkController\\NetworkController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hdmcu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

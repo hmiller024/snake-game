@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W7TRHk7XsKOo1/+HGlYjpI0EVmGIW/HtszhGhAOeQ5LX8jYiQw/lamEgn4R940qsQrV55wI8ATdkaIu7eaWRMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hdmcu\\source\\repos\\game-super_gamers\\SnakeGame\\Model\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hdmcu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
